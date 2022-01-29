@@ -1,6 +1,6 @@
 name: SignShopXSOAP
 version: "666"
-api: [3.0.0, 3.0.0-ALPHA6, 3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11]
+api: [4.0.0, 4.0.0-ALPHA6, 4.0.0-ALPHA7, 4.0.0-ALPHA8, 4.0.0-ALPHA9, 4.0.0-ALPHA10, 34.0.0-ALPHA11]
 main: xsoapsign\economyshop\EconomyShop
 author: xSoapers
 description: follow me on instagram @irsan.agil
